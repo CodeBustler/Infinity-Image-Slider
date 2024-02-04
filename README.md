@@ -1,3 +1,5 @@
 # Infinity-Image-Slider
+By using HTML, CSS & JS with api.unsplash.com
 
-[Edit in Codeflow ⚡️](https://stackblitz.com/~/github.com/CodeBustler/Infinity-Image-Slider)
+## Project Live
+https://codebustler.github.io/infinity-image-slider/
